@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Music Player</string>
+    <string name="play">Play</string>
+    <string name="Pause">pause</string>
+    <string name="restart">Restart</string>
+    <string name="smile_an_everlasting_smile">Smile An EverLasting Smile</string>
+</resources>
